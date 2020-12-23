@@ -55,6 +55,6 @@ npm run build
 npm run start
 ```
 
-## Author
+Thanks to :
 
 Surjith S M ( [@surjithctly](https://surjithctly.in/) )
